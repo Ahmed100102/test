@@ -1,0 +1,164 @@
+{
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "expected_analysis": {
+        "Current Status": "Clear",
+        "Root Cause Analysis": "No issues detected; system is operating normally.",
+        "Predicted Issues": [],
+        "Recommendations": [],
+        "Confidence": 95,
+        "metrics": {
+          "cache_hit_rate": 98,
+          "error_count": 0
+        }
+      }
+    },
+    {
+      "chunk_id": 2,
+      "expected_analysis": {
+        "Current Status": "Clear",
+        "Root Cause Analysis": "No issues detected; system is operating normally.",
+        "Predicted Issues": [],
+        "Recommendations": [],
+        "Confidence": 95,
+        "metrics": {
+          "cache_hit_rate": 98,
+          "error_count": 0
+        }
+      }
+    },
+    {
+      "chunk_id": 3,
+      "expected_analysis": {
+        "Current Status": "Warning",
+        "Root Cause Analysis": "Failed login attempts and high disk usage detected.",
+        "Predicted Issues": [
+          {
+            "Issue": "Potential brute-force attack",
+            "Likelihood": "Medium",
+            "Reason": "Multiple failed login attempts from IP 10.1.1.55."
+          },
+          {
+            "Issue": "Disk space exhaustion",
+            "Likelihood": "High",
+            "Reason": "Disk usage at 85%."
+          },
+          {
+            "Issue": "High query latency on /api/user/data",
+            "Likelihood": "High",
+            "Reason": "Query latency at 2100ms."
+          }
+        ],
+        "Recommendations": [
+          "Block IP 10.1.1.55",
+          "Free up disk space",
+          "Optimize queries for /api/user/data"
+        ],
+        "Confidence": 90,
+        "metrics": {
+          "failed_login_count": 2,
+          "disk_usage_percent": 85,
+          "query_latency_ms": 2100,
+          "error_count": 0
+        }
+      }
+    },
+    {
+      "chunk_id": 4,
+      "expected_analysis": {
+        "Current Status": "Error",
+        "Root Cause Analysis": "High query latency, Redis memory issues, and critical errors in billing and image processing.",
+        "Predicted Issues": [
+          {
+            "Issue": "Service outage due to memory exhaustion",
+            "Likelihood": "High",
+            "Reason": "OutOfMemoryError and Redis memory warnings."
+          },
+          {
+            "Issue": "Billing transaction failures",
+            "Likelihood": "Medium",
+            "Reason": "NullPointerException in BillingProcessor."
+          },
+          {
+            "Issue": "Authentication service failures",
+            "Likelihood": "High",
+            "Reason": "Multiple authentication service failures."
+          }
+        ],
+        "Recommendations": [
+          "Optimize database queries",
+          "Increase Redis memory allocation",
+          "Debug BillingProcessor",
+          "Restart authentication service"
+        ],
+        "Confidence": 85,
+        "metrics": {
+          "query_latency_ms": 2100,
+          "error_count": 32,
+          "disk_usage_percent": 85,
+          "cache_hit_rate": 98
+        }
+      }
+    },
+    {
+      "chunk_id": 5,
+      "expected_analysis": {
+        "Current Status": "Error",
+        "Root Cause Analysis": "Authentication service failures and container restart issues.",
+        "Predicted Issues": [
+          {
+            "Issue": "Authentication downtime",
+            "Likelihood": "High",
+            "Reason": "Multiple authentication service failures."
+          },
+          {
+            "Issue": "Container instability",
+            "Likelihood": "High",
+            "Reason": "Repeated container restart failures."
+          },
+          {
+            "Issue": "High query latency",
+            "Likelihood": "Medium",
+            "Reason": "Persistent latency on /api/user/data."
+          }
+        ],
+        "Recommendations": [
+          "Restart authentication service",
+          "Investigate container configuration",
+          "Optimize query performance"
+        ],
+        "Confidence": 80,
+        "metrics": {
+          "error_count": 36,
+          "disk_usage_percent": 85,
+          "query_latency_ms": 2100
+        }
+      }
+    },
+    {
+      "chunk_id": 6,
+      "expected_analysis": {
+        "Current Status": "Clear",
+        "Root Cause Analysis": "All issues resolved; system is fully operational.",
+        "Predicted Issues": [
+          {
+            "Issue": "Residual disk usage concerns",
+            "Likelihood": "Medium",
+            "Reason": "Recent high disk usage alerts."
+          }
+        ],
+        "Recommendations": [
+          "Monitor disk usage",
+          "Verify system stability"
+        ],
+        "Confidence": 95,
+        "metrics": {
+          "error_count": 0,
+          "disk_usage_percent": 70,
+          "cache_hit_rate": 100
+        }
+      }
+    }
+  ]
+}

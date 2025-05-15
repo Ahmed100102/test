@@ -1,0 +1,270 @@
+2025-05-09 10:00:00 [INFO] Cache hit rate: 98%
+2025-05-09 10:00:11 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:00:17 [INFO] Service uptime: 7200s
+2025-05-09 10:00:22 [INFO] Scheduled backup completed successfully
+2025-05-09 10:00:28 [INFO] Heartbeat received from node 3
+2025-05-09 10:00:33 [INFO] Cache hit rate: 98%
+2025-05-09 10:00:43 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:00:54 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:01:07 [INFO] Heartbeat received from node 3
+2025-05-09 10:01:22 [INFO] Service uptime: 7200s
+2025-05-09 10:01:32 [INFO] Cache hit rate: 98%
+2025-05-09 10:01:44 [INFO] Service uptime: 7200s
+2025-05-09 10:01:52 [INFO] Cache hit rate: 98%
+2025-05-09 10:01:57 [INFO] Scheduled backup completed successfully
+2025-05-09 10:02:02 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:02:12 [INFO] Scheduled backup completed successfully
+2025-05-09 10:02:20 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:02:34 [INFO] Service uptime: 7200s
+2025-05-09 10:02:44 [INFO] Service uptime: 7200s
+2025-05-09 10:02:49 [INFO] Scheduled backup completed successfully
+2025-05-09 10:02:54 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:02:59 [INFO] Scheduled backup completed successfully
+2025-05-09 10:03:12 [INFO] Scheduled backup completed successfully
+2025-05-09 10:03:26 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:03:38 [INFO] Service uptime: 7200s
+2025-05-09 10:03:45 [INFO] Scheduled backup completed successfully
+2025-05-09 10:03:56 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:04:09 [INFO] Scheduled backup completed successfully
+2025-05-09 10:04:16 [INFO] Service uptime: 7200s
+2025-05-09 10:04:30 [INFO] Heartbeat received from node 3
+2025-05-09 10:04:36 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:04:41 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:04:55 [INFO] Heartbeat received from node 3
+2025-05-09 10:05:10 [INFO] Cache hit rate: 98%
+2025-05-09 10:05:25 [INFO] Cache hit rate: 98%
+2025-05-09 10:05:40 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:05:49 [INFO] Cache hit rate: 98%
+2025-05-09 10:06:00 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:06:05 [INFO] Service uptime: 7200s
+2025-05-09 10:06:12 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:06:23 [INFO] Scheduled backup completed successfully
+2025-05-09 10:06:36 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:06:49 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:06:58 [INFO] Scheduled backup completed successfully
+2025-05-09 10:07:04 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:07:16 [INFO] Cache hit rate: 98%
+2025-05-09 10:07:30 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:07:36 [INFO] Scheduled backup completed successfully
+2025-05-09 10:07:50 [INFO] Scheduled backup completed successfully
+2025-05-09 10:07:57 [INFO] Cache hit rate: 98%
+2025-05-09 10:08:02 [INFO] Heartbeat received from node 3
+2025-05-09 10:08:08 [INFO] Service uptime: 7200s
+2025-05-09 10:08:22 [INFO] Service uptime: 7200s
+2025-05-09 10:08:32 [INFO] Heartbeat received from node 3
+2025-05-09 10:08:37 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:08:48 [INFO] Scheduled backup completed successfully
+2025-05-09 10:08:59 [INFO] Service uptime: 7200s
+2025-05-09 10:09:07 [INFO] Service uptime: 7200s
+2025-05-09 10:09:20 [INFO] Scheduled backup completed successfully
+2025-05-09 10:09:30 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:09:45 [INFO] Service uptime: 7200s
+2025-05-09 10:09:56 [INFO] Heartbeat received from node 3
+2025-05-09 10:10:11 [INFO] Scheduled backup completed successfully
+2025-05-09 10:10:25 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:10:38 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:10:50 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:10:55 [INFO] Heartbeat received from node 3
+2025-05-09 10:11:04 [INFO] Cache hit rate: 98%
+2025-05-09 10:11:18 [INFO] Heartbeat received from node 3
+2025-05-09 10:11:29 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:11:41 [INFO] Scheduled backup completed successfully
+2025-05-09 10:11:46 [INFO] Scheduled backup completed successfully
+2025-05-09 10:11:58 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:12:07 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:12:13 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:12:22 [INFO] Service uptime: 7200s
+2025-05-09 10:12:30 [INFO] Cache hit rate: 98%
+2025-05-09 10:12:41 [INFO] Scheduled backup completed successfully
+2025-05-09 10:12:51 [INFO] Cache hit rate: 98%
+2025-05-09 10:12:57 [INFO] Scheduled backup completed successfully
+2025-05-09 10:13:07 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:13:14 [INFO] Service uptime: 7200s
+2025-05-09 10:13:29 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:13:34 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:13:39 [INFO] Cache hit rate: 98%
+2025-05-09 10:13:48 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:13:53 [INFO] Cache hit rate: 98%
+2025-05-09 10:14:05 [INFO] Heartbeat received from node 3
+2025-05-09 10:14:15 [INFO] Scheduled backup completed successfully
+2025-05-09 10:14:22 [INFO] Service uptime: 7200s
+2025-05-09 10:14:29 [INFO] Service uptime: 7200s
+2025-05-09 10:14:42 [INFO] Heartbeat received from node 3
+2025-05-09 10:14:56 [INFO] Cache hit rate: 98%
+2025-05-09 10:15:03 [INFO] Service uptime: 7200s
+2025-05-09 10:15:15 [INFO] Service uptime: 7200s
+2025-05-09 10:15:28 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:15:39 [INFO] Heartbeat received from node 3
+2025-05-09 10:15:44 [INFO] Heartbeat received from node 3
+2025-05-09 10:15:52 [INFO] Heartbeat received from node 3
+2025-05-09 10:16:05 [INFO] Service uptime: 7200s
+2025-05-09 10:16:20 [INFO] Service uptime: 7200s
+2025-05-09 10:16:34 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:16:48 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:16:53 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:17:07 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:17:12 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:17:23 [INFO] Scheduled backup completed successfully
+2025-05-09 10:17:37 [INFO] Service uptime: 7200s
+2025-05-09 10:17:46 [INFO] Heartbeat received from node 3
+2025-05-09 10:18:00 [INFO] Service uptime: 7200s
+2025-05-09 10:18:08 [INFO] Cache hit rate: 98%
+2025-05-09 10:18:13 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:18:25 [INFO] Heartbeat received from node 3
+2025-05-09 10:18:37 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:18:44 [INFO] Service uptime: 7200s
+2025-05-09 10:18:59 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:19:07 [INFO] Heartbeat received from node 3
+2025-05-09 10:19:19 [INFO] Service uptime: 7200s
+2025-05-09 10:19:29 [INFO] Heartbeat received from node 3
+2025-05-09 10:19:36 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:19:46 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:19:59 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:20:10 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:20:18 [WARN] Disk usage at 85%
+2025-05-09 10:20:23 [WARN] Disk usage at 85%
+2025-05-09 10:20:39 [WARN] Disk usage at 85%
+2025-05-09 10:20:44 [INFO] Scheduled backup completed successfully
+2025-05-09 10:20:51 [INFO] Service uptime: 7200s
+2025-05-09 10:21:03 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:21:20 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:21:40 [INFO] Scheduled backup completed successfully
+2025-05-09 10:21:50 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:22:10 [WARN] Disk usage at 85%
+2025-05-09 10:22:26 [WARN] Disk usage at 85%
+2025-05-09 10:22:31 [WARN] Redis memory usage nearing limit
+2025-05-09 10:22:48 [INFO] Scheduled backup completed successfully
+2025-05-09 10:23:05 [WARN] Disk usage at 85%
+2025-05-09 10:23:22 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:23:29 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:23:37 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:23:52 [WARN] Redis memory usage nearing limit
+2025-05-09 10:24:02 [INFO] Cache hit rate: 98%
+2025-05-09 10:24:09 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:24:27 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:24:43 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:24:53 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:25:01 [WARN] Redis memory usage nearing limit
+2025-05-09 10:25:19 [WARN] Disk usage at 85%
+2025-05-09 10:25:37 [INFO] Scheduled backup completed successfully
+2025-05-09 10:25:43 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:25:56 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:26:10 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:26:29 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:26:41 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:26:56 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:27:10 [WARN] Redis memory usage nearing limit
+2025-05-09 10:27:15 [WARN] Redis memory usage nearing limit
+2025-05-09 10:27:29 [WARN] Redis memory usage nearing limit
+2025-05-09 10:27:49 [INFO] Cache hit rate: 98%
+2025-05-09 10:28:09 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:28:28 [ERROR] NullPointerException in BillingProcessor
+2025-05-09 10:28:40 [WARN] Redis memory usage nearing limit
+2025-05-09 10:28:50 [ERROR] OutOfMemoryError in module ImageProcessor
+2025-05-09 10:29:07 [ERROR] OutOfMemoryError in module ImageProcessor
+2025-05-09 10:29:21 [ERROR] NullPointerException in BillingProcessor
+2025-05-09 10:29:40 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:30:00 [ERROR] Authentication service failed to respond
+2025-05-09 10:30:11 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:30:26 [WARN] Redis memory usage nearing limit
+2025-05-09 10:30:41 [ERROR] Authentication service failed to respond
+2025-05-09 10:30:49 [ERROR] Authentication service failed to respond
+2025-05-09 10:31:02 [WARN] Redis memory usage nearing limit
+2025-05-09 10:31:13 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:31:22 [ERROR] NullPointerException in BillingProcessor
+2025-05-09 10:31:35 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:31:49 [WARN] Disk usage at 85%
+2025-05-09 10:32:06 [WARN] Disk usage at 85%
+2025-05-09 10:32:13 [WARN] Disk usage at 85%
+2025-05-09 10:32:27 [ERROR] Authentication service failed to respond
+2025-05-09 10:32:45 [WARN] Disk usage at 85%
+2025-05-09 10:32:57 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:33:12 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:33:29 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:33:45 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:33:55 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:34:13 [ERROR] Authentication service failed to respond
+2025-05-09 10:34:25 [ERROR] NullPointerException in BillingProcessor
+2025-05-09 10:34:37 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:34:43 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:34:48 [WARN] Redis memory usage nearing limit
+2025-05-09 10:35:06 [INFO] Server startup complete. Version: 3.4.1
+2025-05-09 10:35:20 [ERROR] Authentication service failed to respond
+2025-05-09 10:35:36 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:35:53 [ERROR] OutOfMemoryError in module ImageProcessor
+2025-05-09 10:36:00 [WARN] Redis memory usage nearing limit
+2025-05-09 10:36:05 [WARN] Redis memory usage nearing limit
+2025-05-09 10:36:13 [INFO] Connected to PostgreSQL at 192.168.1.100
+2025-05-09 10:36:32 [WARN] Disk usage at 85%
+2025-05-09 10:36:37 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:36:43 [ERROR] OutOfMemoryError in module ImageProcessor
+2025-05-09 10:36:50 [WARN] Redis memory usage nearing limit
+2025-05-09 10:36:58 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:37:13 [ERROR] Authentication service failed to respond
+2025-05-09 10:37:25 [WARN] Disk usage at 85%
+2025-05-09 10:37:44 [ERROR] Authentication service failed to respond
+2025-05-09 10:38:00 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:38:11 [WARN] Disk usage at 85%
+2025-05-09 10:38:16 [WARN] Query latency high: 2100ms on endpoint /api/user/data
+2025-05-09 10:38:29 [WARN] Disk usage at 85%
+2025-05-09 10:38:36 [WARN] Failed login attempt from 10.1.1.55
+2025-05-09 10:38:46 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:39:04 [ERROR] NullPointerException in BillingProcessor
+2025-05-09 10:39:14 [INFO] Heartbeat received from node 3
+2025-05-09 10:39:25 [ERROR] Authentication service failed to respond
+2025-05-09 10:39:41 [ERROR] Authentication service failed to respond
+2025-05-09 10:39:48 [ERROR] OutOfMemoryError in module ImageProcessor
+2025-05-09 10:39:53 [ERROR] NullPointerException in BillingProcessor
+2025-05-09 10:39:58 [ERROR] Failed to restart container: imageproc-service
+2025-05-09 10:40:04 [INFO] Service uptime: 7200s
+2025-05-09 10:40:13 [ERROR] NullPointerException in BillingProcessor
+2025-05-09 10:40:18 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:40:31 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:40:51 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:41:09 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:41:17 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:41:32 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:41:47 [INFO] All services operational.
+2025-05-09 10:42:05 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:42:14 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:42:22 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:42:38 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:42:55 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:43:02 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:43:21 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:43:41 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:43:50 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:44:07 [INFO] All services operational.
+2025-05-09 10:44:26 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:44:39 [INFO] All services operational.
+2025-05-09 10:44:59 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:45:04 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:45:09 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:45:25 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:45:36 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:45:46 [INFO] All services operational.
+2025-05-09 10:45:57 [INFO] All services operational.
+2025-05-09 10:46:12 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:46:31 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:46:39 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:46:51 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:47:07 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:47:17 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:47:35 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:47:41 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:48:00 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:48:18 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:48:37 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:48:49 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:48:56 [INFO] All services operational.
+2025-05-09 10:49:14 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:49:32 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:49:42 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:49:51 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:49:59 [INFO] All services operational.
+2025-05-09 10:50:17 [INFO] All services operational.
+2025-05-09 10:50:28 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:50:40 [INFO] Cache flushed. Latency back to normal.
+2025-05-09 10:50:59 [INFO] Monitoring alert cleared: disk usage back under 70%.
+2025-05-09 10:51:15 [INFO] Memory pressure resolved. Container restarted successfully.
+2025-05-09 10:51:29 [INFO] All services operational.

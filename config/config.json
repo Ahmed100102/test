@@ -1,0 +1,14 @@
+{
+  "models": {
+    "anomaly_detection": "llama3.2",
+    "rca": "qwen3:4b"
+  },
+  "data_paths": {
+    "input_logs": "data/input/server_log.txt",
+    "output_results": "data/output/analysis_results.json",
+    "labels": "data/labels/label_server.json",
+    "execution_trace": "traces/execution_trace.json"
+  },
+  "chunk_size": 50,
+  "log_file": "logs/agent_workflow.log"
+}
